@@ -14,7 +14,8 @@ Nodemcu powered up with its Vin & Ground pin together with panel printer using a
 How to use
 -----------
 Upload the sketch & power up the project.
-Now get connected to the printer's access point (It will available as "Printer"). Once coonected to it, nice capative portal will open to select wifi network. (It uses WiFiManager - https://github.com/tzapu/WiFiManager)
+Now get connected to the printer's access point (It will available as "Printer"). 
+Once connected to it, nice capative portal will open to select wifi network. (It uses WiFiManager - https://github.com/tzapu/WiFiManager).
 Then enter coonected ip address in ther browser to access Ian Jackson's nice image printing UI for thermal printer.
 
 Copied from **Arduino Thermal Printer** July 13, 2018 by **Ian Jackson** and made small changes to fit it with nodemcu development board.
